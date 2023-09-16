@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "nombre": "zapatillas nike-black",
+      "precio": 5250,
+      "thumbnail": "img zapatillas nike-black",
+      "descripcion": "zapatillas running",
+      "code": "**** *** *****",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "nombre": "zapatillas adidas-blancas",
+      "precio": 7543,
+      "thumbnail": "img zapatillas adidas-blancas",
+      "descripcion": "zapatillas adidas",
+      "code": "**** *** *****",
+      "stock": 20
+    },
+    {
+      "id": 3,
+      "nombre": "zapatillas newbalance-new",
+      "precio": 6420,
+      "thumbnail": "img zapatillas newbalance-new",
+      "descripcion": "zapatillas unisex",
+      "code": "**** *** *****",
+      "stock": 40
+    }
+  ]
